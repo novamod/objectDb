@@ -6,6 +6,8 @@ public class Hello {
 	{
 		
 		System.out.println("Hello World!");
+		
+		System.out.println("this is a new message from tom walker");
 	}
 
 }
